@@ -1,0 +1,17 @@
+{
+  "Name": "Nebi",
+  "Surname": "nebili",
+  "Address": "Sumqayit 18 mkr",
+  "City": "Sumqayit",
+  "Zip_code": "12345-6780",
+  "Phone": "(055) 713-57-55",
+  "Email": "nbilinbi7@gmail.com",
+  "TypeOfRoom": "Deluxe",
+  "TypeOfFood": "Full board",
+  "Payment": "Cash",
+  "ArrivialDate": "2021-07-31T21:47:02.7018533+04:00",
+  "EndOfStay": "2021-08-02T21:47:02",
+  "Adults": 3,
+  "KidsUnderOf_6Years": 1,
+  "KidsUnderOf_3Years": 2
+}

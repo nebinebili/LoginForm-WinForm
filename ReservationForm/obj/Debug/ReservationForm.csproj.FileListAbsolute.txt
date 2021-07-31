@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ReservationForm\ReservationForm\bin\Debug\ReservationForm.exe.config
+C:\Users\Admin\source\repos\ReservationForm\ReservationForm\bin\Debug\ReservationForm.exe
+C:\Users\Admin\source\repos\ReservationForm\ReservationForm\bin\Debug\ReservationForm.pdb
+C:\Users\Admin\source\repos\ReservationForm\ReservationForm\obj\Debug\ReservationForm.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ReservationForm\ReservationForm\obj\Debug\ReservationForm.Form1.resources
+C:\Users\Admin\source\repos\ReservationForm\ReservationForm\obj\Debug\ReservationForm.Properties.Resources.resources
+C:\Users\Admin\source\repos\ReservationForm\ReservationForm\obj\Debug\ReservationForm.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ReservationForm\ReservationForm\obj\Debug\ReservationForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ReservationForm\ReservationForm\obj\Debug\ReservationForm.exe
+C:\Users\Admin\source\repos\ReservationForm\ReservationForm\obj\Debug\ReservationForm.pdb
+C:\Users\Admin\source\repos\ReservationForm\ReservationForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\ReservationForm\ReservationForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\ReservationForm\ReservationForm\obj\Debug\ReservationForm.csproj.CopyComplete
